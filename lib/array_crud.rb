@@ -42,7 +42,7 @@ p wow = array.shift
 end
 
 def retrieve_last_element_from_array(array)
-
+p arrays = array.pop
 end
 
 def update_element_from_index(array, index_number, element)
